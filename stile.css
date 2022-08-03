@@ -1,0 +1,56 @@
+body{
+	background: url("background.jpg") no-repeat;
+	background-size:cover;
+	font-family: 'Lato', sans-serif;
+}
+div.txt{
+	margin: 5% 20% 5% 20%;
+	padding: 5%;
+	background: rgba(10, 10, 10, 0.5);
+}
+
+img.logo{
+	width: 13%;
+}
+div.logo{
+	display:block;
+        margin:0px auto;
+	text-align:center;
+        
+}
+h1.logo{
+	color: #33FF33;
+        font-size:160%;
+}
+
+div.btn{
+	background-color: #33FF33;
+	font-size: 80%;
+	padding: 5px;
+        margin: auto 5% auto 5%;
+}
+div.cont{
+	color:white;
+
+}
+#mp1{
+	background-color:#DAA520;
+	height:20px;
+	margin-right: 65%;
+	border-width: 0;
+	border-radius: 6px;
+}
+#mp2{
+	background-color:rgb(50,205,50);
+	height:20px;
+	margin-right: 40%;
+	border-width: 0;
+	border-radius: 6px;
+}
+#mp3{
+	background-color:red;
+	height:20px;
+	margin-right: 85%;
+	border-width: 0;
+	border-radius: 6px;
+}
